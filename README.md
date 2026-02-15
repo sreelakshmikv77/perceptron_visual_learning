@@ -16,3 +16,5 @@ Open the notebook and run all cells.
 ## Notebook
 
 perceptron_visual_learning.ipynb
+## Learning Animation
+![Training](decision_boundary.gif)
